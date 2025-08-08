@@ -7,7 +7,10 @@ I'm Basheer, a passionate developer on a journey to master the little things tha
 💬 Ask me about anything — I love learning and sharing knowledge  
 
 📫 Reach me on  
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/basheerkhn/)
+<a href="https://www.linkedin.com/in/basheerkhn/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="15" />
+</a>
+
 
 
 😄 Pronouns: he/him  
